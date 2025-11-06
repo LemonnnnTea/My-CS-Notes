@@ -1,6 +1,6 @@
 # 💻 CS Note
 
-[![Made with ❤️ by LemonTea](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](https://github.com/yourusername)
+[![Made with ❤️ by LemonTea](https://img.shields.io/badge/Made%20with-LemomTea-red)](https://github.com/LemonnnnTea)
 [![Language](https://img.shields.io/badge/Language-English-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
